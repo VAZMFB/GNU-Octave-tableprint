@@ -1,0 +1,10 @@
+--------------------
+GNU-Octave-tableprint
+GNU Octave function for pretty table print with optional TeX output
+--------------------
+
+Release 1.0.0, 28.12.2021.
+
+- Initial release
+
+--------------------
