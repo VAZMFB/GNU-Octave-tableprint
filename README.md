@@ -3,7 +3,7 @@
 Function `tableprint` for GNU Octave outputs data in pretty table format and it can also output TeX table that is report ready.
 
 <p align="center">
-  <img src="https://vazmfb.com/web/img/github/table_tableprint.png" width="800">
+  <img src="https://milospetrasinovic.com/web/img/vazmfb-github/table_tableprint.png" width="800">
 </p>
 
 ## Requirements
@@ -16,7 +16,7 @@ Provided code is tested with **GNU Octave 6.4.0**.
 For usage please check provided examples. 
 
 ## License
-Copyright (C) 2021 Miloš Petrašinović <info@vazmfb.com>
+Copyright (C) 2021 Miloš Petrašinović <mpetrasinovic@mas.bg.ac.rs>
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as 
